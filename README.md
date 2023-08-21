@@ -17,6 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihatabasli&show_icons=true&locale=en&layout=compact" alt="nihatabasli" /></p>
 
+
+![snake gif](https://github.com/NihatAbasli/NihatAbasli/blob/output/github-contribution-grid-snake.gif)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihatabasli&show_icons=true&locale=en" alt="nihatabasli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihatabasli&" alt="nihatabasli" /></p>
